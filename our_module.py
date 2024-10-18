@@ -62,3 +62,4 @@ class Queue:
         return not bool(self.__queue)
     def __str__(self):
         return str(self.__queue)
+    
